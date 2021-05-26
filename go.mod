@@ -1,3 +1,3 @@
-module github.com/Dot-liu/goku-standard-plugin
+module github.com/eolinker/goku-standard-plugin
 
 go 1.15
